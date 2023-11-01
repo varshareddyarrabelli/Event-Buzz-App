@@ -42,3 +42,27 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter/Dart specific
+.vscode/
+.idea/
+**/build/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS specific files
+**/.DS_Store
+
+# Android specific files
+**/android/gradle.properties
+**/android/local.properties
+**/android/app/local.properties
+
+# Web specific files
+**/web/dev/
+
+# iOS specific files
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/Podfile
+**/ios/Runner/GeneratedPluginRegistrant.h
+**/ios/Runner/GeneratedPluginRegistrant.m
