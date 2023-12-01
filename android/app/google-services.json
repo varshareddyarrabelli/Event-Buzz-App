@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376444336515",
+    "project_id": "eventbuzz-970be",
+    "storage_bucket": "eventbuzz-970be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376444336515:android:20d4d4f7b907a5c5ab5eb6",
+        "android_client_info": {
+          "package_name": "com.example.eventbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376444336515-6o7kdnggucva3vd4qfviloiq871i4gu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKos5x3RDYA_lxmxIrRJGqVHZUN_N3hCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376444336515-6o7kdnggucva3vd4qfviloiq871i4gu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
